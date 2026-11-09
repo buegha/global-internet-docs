@@ -8,7 +8,7 @@
 |---|---|
 | 🪟 **Windows** (компьютер или ноутбук) | **[Открыть инструкцию →](windows/README.md)** |
 | 🍏 **macOS** (MacBook, iMac, Mac mini) | **[Открыть инструкцию →](macos/README.md)** |
-| 🤖 Android | скоро |
+| 🤖 **Android** (телефон или планшет) | **[Открыть инструкцию →](android/README.md)** |
 | 📱 iPhone и iPad | скоро |
 | 🐧 Linux | скоро |
 
